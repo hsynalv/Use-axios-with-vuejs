@@ -1,6 +1,6 @@
 # Use Axios With Vue.js
 
-Implementing Vue.js with axios in a simple way
+Implementing axios with Vue.js in a simple way
 
 > <a href="https://github.com/axios/axios">Axios main page</a>
 
